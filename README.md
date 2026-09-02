@@ -3,7 +3,7 @@
 <div align="center">
 
 # 💻 Luana Martins  
-### Front-End Developer | 19 years old  
+### Front-End Developer | 21 years old  
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+I'm+Luana+Martins🌸;Passionate+Front-End+Developer!)](https://git.io/typing-svg)
 
